@@ -5,7 +5,7 @@ require 'pry'
 	num + 2
 	#num
 	#puts "this is test "
-	binding.pry                                     
+	#binding.pry                                     
 end
 
 #plus_two(1)
