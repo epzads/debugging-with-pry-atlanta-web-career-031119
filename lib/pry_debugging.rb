@@ -1,8 +1,8 @@
   def plus_two(num)
 	num + 2
-	num
+	# num
 	puts "this is test "
-	binding.pry                                     
+	#binding.pry                                     
 end
 
-plus_two
+#plus_two
